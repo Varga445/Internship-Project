@@ -1,0 +1,3 @@
+INSERT INTO USER_TYPE VALUES (null, 'Admin');
+INSERT INTO USER_TYPE VALUES (null, 'Trainer');
+INSERT INTO USER_TYPE VALUES (null, 'Trainee');
